@@ -19,6 +19,7 @@
 
 ### Attention Mechanism/ RNN / LSTM
 - [Attention is all you need (Transfomer Model)](https://arxiv.org/pdf/1706.03762.pdf) : probably the best research paper in 2017 (again, in my humble opinion), which use stack attention module to replace the normal RNN/LSTM on sequence-to-sequence model.
+- [Areas of Attention for Image Captioning](https://arxiv.org/pdf/1612.01033.pdf) : compare and propose three methods for image captioning using: activation grid, object proposal, and spatial transformer. The model with spatial tranformer give the best performances.
 
 ### Image Generation
 - [Generative Adversarial Network](https://arxiv.org/pdf/1406.2661.pdf): Train two network adversarially to compete each other so that it can later fool human. It has many applications including image generation, super-resolution, style-transfering etc.
