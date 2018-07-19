@@ -34,7 +34,7 @@
 - [How OpenAI beat pro Dota2 gamer 1vs1](https://blog.openai.com/dota-2/) by OpenAI
 - [How OpenAI beat human 5vs5 in Dota2 game](https://blog.openai.com/openai-five/) by OpenAI
 - [Implement Your own Darknet from Scratch with PyTorch](https://blog.paperspace.com/tag/series-yolo/) by Ayoosh Kathuria
-
+- [Transformer Model illustrated](https://jalammar.github.io/illustrated-transformer/) by Jay Alammar
 ### Git Good Project
 - [Implementaion of Mask-RCNN](https://github.com/matterport/Mask_RCNN)
 - [Implementation of Darknet by PJReddie](https://github.com/pjreddie/darknet)
