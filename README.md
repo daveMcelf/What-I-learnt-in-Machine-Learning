@@ -11,10 +11,12 @@
 - [Resnet](https://arxiv.org/pdf/1512.03385.pdf) : Who said deeper network is bad? This architecture is used a really deep network(up to 152 layers) and be able to not be complex. It introduce the skip connection and shortcut to other architecture including the Yolov3 and Faster-RCNN.
 
 ### Image/Video Captioning
+- [Show, Attend, Tell](https://arxiv.org/pdf/1502.03044.pdf) : Image Captioning with attention module.
+- [
+Bottom-Up and Top-Down Attention for Image Captioning and Visual Question Answering](https://arxiv.org/abs/1707.07998): the approach to use Fast-Rcnn as the feature extraction then generate caption.
+- [Image Captioning with Semantic Attention](https://ieeexplore.ieee.org/document/7780872/) : Similar to the ShowTell, but combine the top-down and bottom-up feature for better image captioning task.
 - [DenseCap](https://arxiv.org/abs/1511.07571) : an end-to-end architecture that dense image captioning task using  a propose Fully Convolutional Localization Network.
 - [Captioning Transformer with Stacked Attention Modules](www.mdpi.com/2076-3417/8/5/739/pdf) : captioning image with Transformer modules.
-- [Show, Attend, Tell](https://arxiv.org/pdf/1502.03044.pdf) : Image Captioning with attention module.
-- [Image Captioning with Semantic Attention](https://ieeexplore.ieee.org/document/7780872/) : Similar to the ShowTell, but combine the top-down and bottom-up feature for better image captioning task.
 - [Dense Captioning Events in Videos](https://arxiv.org/pdf/1705.00754.pdf) : As we can see, Dense Captioning for events in Video.... lol.
 
 ### Attention Mechanism/ RNN / LSTM
