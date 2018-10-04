@@ -1,5 +1,5 @@
 # Background
- This repository is made for the purpose of sharing the machine learning related papers that I have read during my researching period on this field. Since Machine learning is a tremendously broad topic, I only limited my focus on some branches including: Image Detection and Segmentation, Image Captioning, Image Generation...etc. 
+ This repository is made for the purpose of sharing the machine learning related papers that I have read during my researching period on this field. Since Machine learning is a tremendously broad topic, I only limited my focus on some branches including: Image Detection and Segmentation, Image Captioning, Image Generation...etc.  
  
 # ML Related Papers
 ### Image Detection and Segmentation
