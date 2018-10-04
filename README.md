@@ -48,6 +48,7 @@ Bottom-Up and Top-Down Attention for Image Captioning and Visual Question Answer
 - [PyTorch Tutorial](https://github.com/yunjey/pytorch-tutorial)
 - [A collection of papers and project of Image Captioning](https://github.com/handong1587/handong1587.github.io/blob/master/_posts/deep_learning/2015-10-09-captioning.md)
 - [PyTorch Github](https://github.com/pytorch/pytorch)
+- [Convolutional Sequence to Sequence](https://github.com/facebookresearch/fairseq)
 
 ### Statistical Terms (maybe for people like me C:)
 - False Positive: falsely detecting non/background object as object
