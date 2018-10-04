@@ -38,6 +38,7 @@ Bottom-Up and Top-Down Attention for Image Captioning and Visual Question Answer
 - [How OpenAI beat human 5vs5 in Dota2 game](https://blog.openai.com/openai-five/) by OpenAI
 - [Implement Your own Darknet from Scratch with PyTorch](https://blog.paperspace.com/tag/series-yolo/) by Ayoosh Kathuria
 - [Transformer Model illustrated](https://jalammar.github.io/illustrated-transformer/) by Jay Alammar
+- [A Good Explanation of Transformer Model](https://mchromiak.github.io/articles/2017/Sep/12/Transformer-Attention-is-all-you-need/#.W7C4xHVubCI) by Michał Chromiak
 ### Git Good Project
 - [Implementaion of Mask-RCNN](https://github.com/matterport/Mask_RCNN)
 - [Implementation of Darknet by PJReddie](https://github.com/pjreddie/darknet)
