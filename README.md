@@ -64,3 +64,6 @@ Bottom-Up and Top-Down Attention for Image Captioning and Visual Question Answer
 - Average Precision: scalar way to evaluate the performance of classifier and is the area under the prediction-recall curves
 - Jaccard index = Intersection over Union(IoU): ratio between area of overlap over area of union (area of the intersection divided by the area of the union of the two rectangular bounding boxes (ground truth and prediction))
 - Cross validation: model validation technique to assess how the results of a statistical analysis will generalize to an independent data set
+- Gradient Descent:
+- Loss Function:
+- Backpropagation: 
