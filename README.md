@@ -67,3 +67,4 @@ Bottom-Up and Top-Down Attention for Image Captioning and Visual Question Answer
 - Gradient Descent:
 - Loss Function:
 - Backpropagation: 
+- Activation Function:
