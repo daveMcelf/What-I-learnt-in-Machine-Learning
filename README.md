@@ -31,6 +31,7 @@ Bottom-Up and Top-Down Attention for Image Captioning and Visual Question Answer
 ### Other
 - [Unsupervised Action Discovery](http://openaccess.thecvf.com/content_ICCV_2017/papers/Soomro_Unsupervised_Action_Discovery_ICCV_2017_paper.pdf) : Reading.....
 - [Through-Wall Human Pose Estimation Using Radio Signals](http://openaccess.thecvf.com/content_cvpr_2018/CameraReady/2406.pdf)
+- [Human-level control through deep reinforcement learning](https://web.stanford.edu/class/psych209/Readings/MnihEtAlHassibis15NatureControlDeepRL.pdf)
 
 ### Blogs & Videos
 - [2017 Trend in Machine Learning](https://medium.com/@karpathy/a-peek-at-trends-in-machine-learning-ab8a1085a106) by Andrej Karpathy
