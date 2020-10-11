@@ -68,7 +68,7 @@ Bottom-Up and Top-Down Attention for Image Captioning and Visual Question Answer
 - Cross validation: model validation technique to assess how the results of a statistical analysis will generalize to an independent data set
 - Gradient Descent: an optimization algorithm used to minimize loss function descent by the gradient.
 - Loss Function:a loss function or cost function is a function that maps an event or values of one or more variables onto a real number intuitively representing some "cost" associated with the event. An optimization problem seeks to minimize a loss function
-- Backpropagation: 
+- Backpropagation: is a way of computing gradients of expressions through recursive application of chain rule.
 - Activation Function:
 
 
