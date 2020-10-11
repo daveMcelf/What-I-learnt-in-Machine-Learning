@@ -67,7 +67,7 @@ Bottom-Up and Top-Down Attention for Image Captioning and Visual Question Answer
 - Jaccard index = Intersection over Union(IoU): ratio between area of overlap over area of union (area of the intersection divided by the area of the union of the two rectangular bounding boxes (ground truth and prediction))
 - Cross validation: model validation technique to assess how the results of a statistical analysis will generalize to an independent data set
 - Gradient Descent: an optimization algorithm used to minimize loss function descent by the gradient.
-- Loss Function:
+- Loss Function:a loss function or cost function is a function that maps an event or values of one or more variables onto a real number intuitively representing some "cost" associated with the event. An optimization problem seeks to minimize a loss function
 - Backpropagation: 
 - Activation Function:
 
