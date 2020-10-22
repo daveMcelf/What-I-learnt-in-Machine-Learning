@@ -69,7 +69,7 @@ Bottom-Up and Top-Down Attention for Image Captioning and Visual Question Answer
 - Gradient Descent: an optimization algorithm used to minimize loss function descent by the gradient.
 - Loss Function:a loss function or cost function is a function that maps an event or values of one or more variables onto a real number intuitively representing some "cost" associated with the event. An optimization problem seeks to minimize a loss function
 - Backpropagation: is a way of computing gradients of expressions through recursive application of chain rule.
-- Activation Function: Activation functions are mathematical equations that determine the output of a neural network. The function is attached to each neuron in the network, and determines whether it should be activated (“fired”) or not. Activation functions also help normalize the output of each neuron to a range between 1 and 0 or between -1 and 1. 
+- Activation Function: Activation functions are mathematical equations that determine the output of a neural network. The function is attached to each neuron in the network, and determines whether it should be activated or not. Activation functions also help normalize the output of each neuron to a range between 1 and 0 or between -1 and 1. 
 
 
 
